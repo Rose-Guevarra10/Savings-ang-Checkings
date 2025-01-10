@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        SavingsAccount savingsAccount = new SavingsAccount("Mahal ka ba nya?", "Andrea", 1000.00, 0.05);
+        SavingsAccount savingsAccount = new SavingsAccount("ewankosayo?", "Roseeei", 1000.00, 0.05);
 
   System.out.println("Depositing $500 into Savings Account...");
         savingsAccount.deposit(500.00);
